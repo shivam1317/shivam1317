@@ -5,7 +5,7 @@
 <h3 align="center">I am an ethical hacker, Full stack web developer and competitive coder.</h3>
 
 -----
-- 🌱 I’m currently learning:- php,laravel,typescript, react native
+- 🌱 I’m currently learning:- php,typescript, react native
 - 💬 Ask me about:- full stack web development,DSA,cloud computing and web security.
 
 ## 🛠 My skills include
