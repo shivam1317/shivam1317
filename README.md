@@ -29,7 +29,7 @@
 <img height="50" width="50" src="https://pbs.twimg.com/profile_images/1269490744609341442/MaweGLMN_400x400.png"/>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam1317&theme=black-ice" alt="Salonee-Jain"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam1317&theme=black-ice" alt="Shivam-Danawale"  /></p>
 
 ## 📬 Get in touch
 
