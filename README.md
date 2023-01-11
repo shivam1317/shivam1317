@@ -3,6 +3,11 @@
 </div>
 <h1 align="center">Hi, I'm Shivam</h1>
 <h3 align="center">I am an ethical hacker, Full stack web developer and competitive coder.</h3>
+<div align="center">
+  <img src="https://cdn.discordapp.com/emojis/619643456310083656.gif?size=160&quality=lossless" align="center" height="25px" width="25px"/>
+<a href="https://0xsh1v4m.netlify.app/" target="_blank" align="center">My Portfolio</a>
+  <img src="https://cdn.discordapp.com/emojis/619643456310083656.gif?size=160&quality=lossless" align="center" height="25px" width="25px"/>
+</div>
 
 -----
 - 🌱 I’m currently learning:- php,typescript, react native
