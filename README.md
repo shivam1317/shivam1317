@@ -39,7 +39,7 @@
 ## 📬 Get in touch
 
 <p>
-<a href="https://twitter.com/0xSH1V4M" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://twitter.com/0xSH1V4M_OP" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shivam-danawale-b9a8a21b4" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://medium.com/@0xSH1V4M" target="_blank"><img align="center" src="https://cdn.mos.cms.futurecdn.net/uazw6gFQuEC29mxMM55Tpb-320-80.jpg" alt="medium" height"30" width="40"/></a>
 <a href="https://dsc.gg/w3_4re_n00bs" target="_blank"><img align="center" src="https://skills.thijs.gg/icons?i=discord&theme=dark" height="30" width="40" alt="discord"/></a>
