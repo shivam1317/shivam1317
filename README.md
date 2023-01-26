@@ -21,12 +21,12 @@
 
 ### Frameworks and platforms
 
-![My Skills](https://skills.thijs.gg/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,aws,azure,linux,materialui&theme=dark)
+![My Skills](https://skills.thijs.gg/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,redux,prisma,aws,azure,linux,materialui&theme=dark)
 <img height="50" width="50" src="https://www.coffeeclass.io/logos/chakra-ui.png"/>
 
 ### Databases
 
-![My Skills](https://skills.thijs.gg/icons?i=mysql,mongodb,firebase&theme=dark)
+![My Skills](https://skills.thijs.gg/icons?i=mongodb,firebase,mysql&theme=dark)
 
 ### Tools
 
