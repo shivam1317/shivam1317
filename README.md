@@ -21,7 +21,7 @@
 
 ### Frameworks and platforms
 
-![My Skills](https://skills.thijs.gg/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,redux,prisma,aws,azure,linux,materialui&theme=dark)
+![My Skills](https://skills.thijs.gg/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,aws,azure,linux,materialui&theme=dark)
 <img height="50" width="50" src="https://www.coffeeclass.io/logos/chakra-ui.png"/>
 
 ### Databases
@@ -30,7 +30,7 @@
 
 ### Tools
 
-![My Skills](https://skills.thijs.gg/icons?i=git,github,md,vscode,netlify,vercel&theme=dark)
+![My Skills](https://skills.thijs.gg/icons?i=git,github,md,vscode,redux,prisma,netlify,vercel&theme=dark)
 <img height="50" width="50" src="https://pbs.twimg.com/profile_images/1269490744609341442/MaweGLMN_400x400.png"/>
 
 ## 🔥 Streak Stats
