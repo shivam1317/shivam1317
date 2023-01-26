@@ -17,7 +17,7 @@
 
 ### Languages
 
-![My Skills](https://skills.thijs.gg/icons?i=cpp,html,css,js,ts,python,php,java&theme=dark) 
+![My Skills](https://skills.thijs.gg/icons?i=cpp,html,css,js,ts,golang,python,php,java&theme=dark) 
 
 ### Frameworks and platforms
 
