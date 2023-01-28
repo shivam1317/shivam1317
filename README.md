@@ -4,6 +4,9 @@
 <h1 align="center">Hi, I'm Shivam</h1>
 <h3 align="center">I am an ethical hacker, Full stack web developer and competitive coder.</h3>
 <div align="center">
+  <p> <img src="https://komarev.com/ghpvc/?username=shivam1317&label=Profile%20views&color=023e8a&style=flat" alt="shivam1317" /> </p>
+  </div>
+<div align="center">
   <img src="https://cdn.discordapp.com/emojis/619643456310083656.gif?size=160&quality=lossless" align="center" height="25px" width="25px"/>
 <a href="https://0xsh1v4m.netlify.app/" target="_blank" align="center">My Portfolio</a>
   <img src="https://cdn.discordapp.com/emojis/619643456310083656.gif?size=160&quality=lossless" align="center" height="25px" width="25px"/>
