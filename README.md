@@ -25,7 +25,6 @@
 ### Frameworks and platforms
 
 ![My Skills](https://skills.thijs.gg/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,aws,azure,linux,materialui&theme=dark)
-<img height="50" width="50" src="https://www.coffeeclass.io/logos/chakra-ui.png"/>
 
 ### Databases
 
