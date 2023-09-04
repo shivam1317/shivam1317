@@ -24,7 +24,7 @@
 
 ### Frameworks and platforms
 
-![My Skills](https://skills.thijs.gg/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,aws,azure,linux,materialui&theme=dark)
+![My Skills](https://skills.thijs.gg/icons?i=react,nextjs,angular,nodejs,nestjs,express,tailwind,bootstrap,aws,azure,linux,materialui&theme=dark)
 
 ### Databases
 
