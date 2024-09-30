@@ -8,7 +8,7 @@
   </div>
 <div align="center">
   <img src="https://cdn.discordapp.com/emojis/619643456310083656.gif?size=160&quality=lossless" align="center" height="25px" width="25px"/>
-<a href="https://0xsh1v4m.netlify.app/" target="_blank" align="center">My Portfolio</a>
+<a href="https://letshivamcode.com" target="_blank" align="center">My Portfolio</a>
   <img src="https://cdn.discordapp.com/emojis/619643456310083656.gif?size=160&quality=lossless" align="center" height="25px" width="25px"/>
 </div>
 
