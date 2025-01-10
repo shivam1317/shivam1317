@@ -14,7 +14,7 @@
 
 -----
 - 🌱 I’m currently learning:- php,typescript, react native
-- 💬 Ask me about:- Machine Learing, Full stack development,DSA,cyber security or Cloud Computing.
+- 💬 Ask me about:- Machine Learning, Full stack development,DSA,cyber security or Cloud Computing.
 
 ## 🛠 My skills include
 
